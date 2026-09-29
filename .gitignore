@@ -1,0 +1,5 @@
+HAM10000_images/
+HAM10000_images_merged/
+balanced_dataset/
+*.h5
+*.pkl
